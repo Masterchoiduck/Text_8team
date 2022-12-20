@@ -1,0 +1,21 @@
+[
+  {
+    "img":"img/catalog/catalog.png",
+    "text_1":"MORE",
+    "text_2":"LIGHTING",
+    "text_3":"CATALOG"
+  }
+  ,
+  {
+    "img":"img/catalog/catalog.png",
+    "text_1":"MORE2",
+    "text_2":"LIGHTING2",
+    "text_3":"CATALOG2"
+  },
+  {
+    "img":"img/catalog/catalog.png",
+    "text_1":"MORE3",
+    "text_2":"LIGHTING3",
+    "text_3":"CATALOG3"
+  }
+]
